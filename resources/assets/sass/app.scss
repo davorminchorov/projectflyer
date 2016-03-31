@@ -1,2 +1,13 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "partials/forms";
 
+body {
+  padding-top: 70px;
+}
+
+img {
+  width: 100%;
+}
+
+.gallery__image {
+  margin-bottom: 1em;
+}
